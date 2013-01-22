@@ -26,7 +26,7 @@ namespace TestGIT
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello !");
+            MessageBox.Show("Hello Yassine !");
         }
     }
 }

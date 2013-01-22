@@ -11,3 +11,14 @@ C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\ResG
 C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\ResGen.write.1.tlog
 C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.exe
 C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.pdb
+E:\Mes Projets\VS2010\TestGIT\TestGIT\bin\Debug\TestGIT.exe
+E:\Mes Projets\VS2010\TestGIT\TestGIT\bin\Debug\TestGIT.pdb
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\MainWindow.baml
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\MainWindow.g.cs
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\App.g.cs
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT_MarkupCompile.cache
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT.g.resources
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT.Properties.Resources.resources
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT.csproj.GenerateResource.Cache
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT.exe
+E:\Mes Projets\VS2010\TestGIT\TestGIT\obj\x86\Debug\TestGIT.pdb
