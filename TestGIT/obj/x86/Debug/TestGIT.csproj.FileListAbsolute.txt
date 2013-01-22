@@ -1,0 +1,13 @@
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\bin\Debug\TestGIT.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\bin\Debug\TestGIT.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\MainWindow.baml
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\App.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT_MarkupCompile.cache
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.g.resources
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.Properties.Resources.resources
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\TestGit\TestGIT\obj\x86\Debug\TestGIT.pdb
